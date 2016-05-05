@@ -1,9 +1,20 @@
-# LearningMaterials
+# Learning Materials
+
+Concentrated list of online learning materials in computer science
 
 
+### Version
+0.0.1
 
-Angular2: https://github.com/timjacobi/angular2-education
-DataScience: https://github.com/okulbilisim/awesome-datascience3
-Go: https://github.com/dariubs/GoBooks
+### Angular
+https://github.com/timjacobi/angular2-education
 
+### Bootstrap
 
+### Datascience
+https://github.com/okulbilisim/awesome-datascience3
+
+### Go
+https://github.com/dariubs/GoBooks
+
+### Meteor
