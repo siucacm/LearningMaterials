@@ -18,3 +18,4 @@ https://github.com/okulbilisim/awesome-datascience3
 https://github.com/dariubs/GoBooks
 
 ### Meteor
+https://github.com/unmonk/meteor-blast
