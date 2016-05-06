@@ -4,7 +4,7 @@ Concentrated list of online learning materials in computer science
 
 
 ### Version
-0.0.1
+0.0.2
 
 
 ### Languages
