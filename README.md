@@ -44,6 +44,9 @@ https://github.com/onurakpolat/awesome-bigdata
 https://github.com/tayllan/awesome-algorithms  
 https://github.com/owainlewis/awesome-artificial-intelligence  
 
+### Ebooks
+https://github.com/classicemi/ebooks
+
 ### Enterprise Programming
 
 ### Example Apps
